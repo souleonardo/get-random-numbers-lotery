@@ -5,7 +5,7 @@
   <li>CSS</li>
 </ul>
 
-<img src="https://github.com/souleonardo/pousada-secreta/blob/master/assets/preview-pousada-secreta.gif">
+<img src="https://github.com/souleonardo/get-random-numbers-lotery/blob/master/public/get-random-numbers.gif">
 
 ## To run the app in your local you must have node installed and make the steps:
 
