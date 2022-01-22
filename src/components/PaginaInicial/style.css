@@ -1,0 +1,43 @@
+.conteudo-centralizado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 3px 6px 10px 6px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  box-sizing: border-box;
+}
+
+.area-botao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Button {
+  margin-top: 20px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  margin-top: 15px;
+  background: #0ac5d4;
+  box-shadow: 0px 3px 6px rgba(119, 119, 119, 0.1);
+  padding: 10px 15px;
+  outline: none;
+  cursor: pointer;
+}
+
+.Button:hover {
+  background: #0d8b94;
+}
+
+h3 {
+  text-align: center;
+}
