@@ -10,6 +10,6 @@
 ## To run the app in your local you must have node installed and make the steps:
 
 <ol>
-  <li>npm init -y</li>
+  <li>npm install</li>
   <li>npm start</li>
 </ol>
